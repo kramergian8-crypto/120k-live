@@ -1,1 +1,1 @@
-{"spur":[],"stand":"2026-09-26T07:43:50Z","akku":65,"status":"zurueckgesetzt","hr":104,"km":0,"elapsed":"00:00:00","kcal":0,"ble":false}
+{"kcal":4,"ble":true,"elev":5.873976898379624,"lon":7.632363679415653,"elapsed":"00:00:42","kmhAktuell":19.26275528089652,"km":0.2,"akku":65,"hr":101,"stand":"2026-09-26T07:44:37Z","kmh":19.865009010764798,"hrAvg":105,"lat":46.758031725724145,"accuracy":7.40307711825866,"pace":"3:01","spur":[[46.75708,7.63055,1790408635]],"paceAktuell":"3:06","status":"laeuft"}
