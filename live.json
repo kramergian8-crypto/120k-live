@@ -1,1 +1,1 @@
-{"hr":100,"elapsed":"00:00:00","kcal":0,"km":0,"akku":65,"spur":[],"stand":"2026-09-26T07:45:53Z","status":"zurueckgesetzt","ble":false}
+{"spur":[[46.76128,7.62841,1790408811]],"status":"laeuft","kcal":0,"ble":false,"km":0,"lat":46.761276541854166,"elapsed":"00:00:00","lon":7.628412599666004,"akku":65,"accuracy":6.3346621165723525,"stand":"2026-09-26T07:46:52Z","elev":0}
